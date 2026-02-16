@@ -50,13 +50,12 @@ https://github.com/mihailShumilov/the-new-css
 
 - [SequelPG](https://github.com/mihailShumilov/SequelPG)
 - [the-new-css](https://github.com/mihailShumilov/the-new-css)
-- [narrative-detection](https://github.com/mihailShumilov/narrative-detection)
 
 ---
 
 ## Technical Focus
 
-C, C++, CSS, Dockerfile, Go, Java, JavaScript, Objective-C, PHP, Python, Rust, Shell, Swift, TypeScript
+TypeScript, JavaScript, Rust, PHP, Shell
 
 ---
 
